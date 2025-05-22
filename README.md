@@ -187,8 +187,9 @@ Video Demonstration:
 ### Coin Tycoon
 [Roblox](https://www.roblox.com/games/86011462605220/Coin-Tycoon)
 
+Video Demonstration:
 
-[GitHub](https://github.com/user-attachments/assets/4ffaf384-b261-44a2-8d30-44def1dd8cb6)
+[](https://github.com/user-attachments/assets/4ffaf384-b261-44a2-8d30-44def1dd8cb6)
 
 
 -----
