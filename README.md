@@ -31,7 +31,7 @@ This is actually the plugin I used to upload all of these files to GitHub so qui
 
 Video Demonstration:
 
-https://github.com/user-attachments/assets/82f19dcf-1c86-44d7-a37a-24310285fd22
+[](https://github.com/user-attachments/assets/82f19dcf-1c86-44d7-a37a-24310285fd22)
 
 
 -----
@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/82f19dcf-1c86-44d7-a37a-24310285fd22
 
 Video Demonstration:
 
-https://github.com/user-attachments/assets/437e05fd-aa8e-401c-824f-b37e6d1dec5b
+[](https://github.com/user-attachments/assets/437e05fd-aa8e-401c-824f-b37e6d1dec5b)
 
 
 -----
@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/437e05fd-aa8e-401c-824f-b37e6d1dec5b
 
 Video Demonstration:
 
-https://github.com/user-attachments/assets/f36901c3-a010-4717-9a18-251a1795b63a
+[](https://github.com/user-attachments/assets/f36901c3-a010-4717-9a18-251a1795b63a)
 
 
 -----
@@ -90,7 +90,7 @@ https://github.com/user-attachments/assets/f36901c3-a010-4717-9a18-251a1795b63a
 
 Video Demonstration:
 
-https://github.com/user-attachments/assets/3b7e8509-ad91-4485-aca8-5dd15e867666
+[](https://github.com/user-attachments/assets/3b7e8509-ad91-4485-aca8-5dd15e867666)
 
 
 -----
@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/3b7e8509-ad91-4485-aca8-5dd15e867666
 
 Video Demonstration:
 
-https://github.com/user-attachments/assets/61a63301-c37c-4b8a-be22-5f9b020b1cd5
+[](https://github.com/user-attachments/assets/61a63301-c37c-4b8a-be22-5f9b020b1cd5)
 
 
 -----
