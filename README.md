@@ -5,7 +5,7 @@ I am a past beta tester for Winds of Fortune and Chilly Room (creator of Soul Kn
 
 # Roller_Bott's Creations
 
-**Note:** Some repositories are not *fully filled* with the game code, so that you can tell which scripts were created by me.
+**Note:** Some repositories are not *fully filled* with the game code, so that you can tell which scripts were created by me. Also, some demo videos could not be included, because they exceed the 10 MB file size limit. This list is not of everything I have made, but it showcases a variety.
 
 -----
 
@@ -24,6 +24,10 @@ https://github.com/Dynamo-rblx/GitSync-Demo
 https://github.com/Dynamo-rblx/neural-network-stuff/tree/main
 
 https://www.roblox.com/games/91356831616167/Neural-Network-Studies
+
+
+https://github.com/user-attachments/assets/82f19dcf-1c86-44d7-a37a-24310285fd22
+
 
 -----
 
@@ -46,12 +50,20 @@ https://www.roblox.com/games/16717176563/Emissaries
 
 https://github.com/Dynamo-rblx/emissaries
 
+
+https://github.com/user-attachments/assets/437e05fd-aa8e-401c-824f-b37e6d1dec5b
+
+
 -----
 
 ### Secret Scenario
 https://www.roblox.com/games/104554055445707/Secret-Scenario
 
 https://github.com/Dynamo-rblx/secret-scenario
+
+
+https://github.com/user-attachments/assets/f36901c3-a010-4717-9a18-251a1795b63a
+
 
 -----
 
@@ -69,6 +81,10 @@ https://github.com/Dynamo-rblx/christmas-countdown
 
 https://www.roblox.com/games/92834977876871/BOSS-Christmas-Countdown
 
+
+https://github.com/user-attachments/assets/3b7e8509-ad91-4485-aca8-5dd15e867666
+
+
 -----
 
 ### Parallax
@@ -82,6 +98,10 @@ https://www.roblox.com/games/116229793650425/Parallax
 https://github.com/Dynamo-rblx/a-dark-room
 
 https://www.roblox.com/games/12176421395/A-Dark-Room
+
+
+https://github.com/user-attachments/assets/61a63301-c37c-4b8a-be22-5f9b020b1cd5
+
 
 -----
 
@@ -158,6 +178,10 @@ https://www.roblox.com/games/86975851072155/Break-a-Leg-BETA
 ### Coin Tycoon
 https://www.roblox.com/games/86011462605220/Coin-Tycoon
 
+
+https://github.com/user-attachments/assets/4ffaf384-b261-44a2-8d30-44def1dd8cb6
+
+
 -----
 
 ### Stranded: Eternal Winter
@@ -167,6 +191,8 @@ https://www.roblox.com/games/13571441175/Stranded-Eternal-Winter
 
 ### Roblox Developer Battles Host (3 years)
 https://sites.google.com/view/robloxdeveloperbattles/home
+
+https://www.youtube.com/watch?v=BIS1qfUPmmI
 
 -----
 
@@ -180,7 +206,6 @@ https://x.com/Roller_Nite
 (The game has since been discontinued)
 
 https://www.roblox.com/games/6524159916/RedBay-ALPHA-Rp-Playground-Town
-
 
 
 
