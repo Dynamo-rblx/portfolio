@@ -2,6 +2,8 @@
 
 # Background
 
+
+
 I am well-versed in Roblox development and team/project management. I have been scripting since 2018, and I love to spend time learning new things (not just about scripting) and honing my skills. When it comes to working on a team, I have lots of experience. However, most of those experiences have been negatively impacted by bad team members and bad leaders. That said, working on a team after establishing that synergy and chain-of-command you need is one of my favorite parts of game development. I have also tutored a few people in lua scripting (for 3 months). I am also a past beta tester for Winds of Fortune and Chilly Room (creator of Soul Knight). 
 -----
 
